@@ -15,7 +15,7 @@ Add the environment variables and build the program.
 
 **3. 更改程式  Setting the code**  
 可以藉由更改image_converter.cpp 中繼承的Ros主題，選擇顯示realsens 攝影機畫面，或模擬環境中的攝影機畫面。  
-By changeing the Subscriber in the image_converter.cpp, you can choose to see the real world vision or the simulation vision.
+By changing the Subscriber in the image_converter.cpp, you can choose to see the real world vision or the simulation vision.
 ## 測試 Test
 **1. 模擬環境 Simulation world**  
 `$ roslaunch turtlebot_gazebo turtlebot_world.launch`  
