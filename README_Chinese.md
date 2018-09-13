@@ -9,10 +9,9 @@
 2. 編輯及建立程式
 在終端機中輸入以下資料，以更新並建立程式  
 ` $ source devel/setup.bash`  
-` $ catkin_make`
-
+` $ catkin_make`  
 3. 更改程式  
 可以藉由更改image_converter.cpp 中繼承的Ros主題，選擇顯示realsens 攝影機畫面，或模擬環境中的攝影機畫面。
-![image](https://github.com/LiYi12023/ROS_turtlebot_Opencv/In_turtlebot_world.png)  
-![image](https://github.com/LiYi12023/ROS_turtlebot_Opencv/In_real_world.png )
+模擬環境:![image](https://raw.githubusercontent.com/LiYi12023/ROS_turtlebot_Opencv/master/In_turtlebot_world.jpg)  
+現實環境:![image](https://raw.githubusercontent.com/LiYi12023/ROS_turtlebot_Opencv/master/In_real_world.png)  
  
